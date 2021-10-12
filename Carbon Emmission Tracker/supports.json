@@ -1,0 +1,14 @@
+{
+  "name": "carbon_emission_tracker",
+  "description": "Its better to get alert rather than healing after injury.",
+  "version": "1.1",
+  "license": "VIT",
+  "devDependencies": {
+    "node-fetch": "^2.6.0",
+    "title-case": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShwetKhatri2001/MLH-LHD-Learn-2022"
+  }
+}
