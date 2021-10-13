@@ -1,0 +1,21 @@
+
+nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+ul li a {
+  color: inherit;
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.dashboard-container {
+  margin: 2em;
+}
+
+.size-span, .price-span {
+  font-size: 18px;
+}
+
+.stock-status {
+  float: right;
+}
